@@ -1,5 +1,5 @@
 
-def speak_to_grandma# Write a speak_to_grandma method.
+def speak_to_grandma
 if "I love you Grandma" == "I love grandma" .uppercase
   puts "I LOVE YOU TOO PUMPKIN!"
 elsif "" "" .uppercase
@@ -7,3 +7,5 @@ elsif "" "" .uppercase
 else
   puts "HUH?! SPEAK UP, SONNY!"
 end
+
+I LOVE YOU GRANDMA
