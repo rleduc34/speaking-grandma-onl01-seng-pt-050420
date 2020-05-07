@@ -1,5 +1,5 @@
 
-if "I love you Grandma!" == "I love grandma!" .uppercase
+if "I LOVE YOU GRANDMA!" == "I LOVE YOU GRANDMA"
   puts "I LOVE YOU TOO PUMPKIN!"
 elsif "" == "" .uppercase
   puts "NO, NOT SINCE 1938!"
