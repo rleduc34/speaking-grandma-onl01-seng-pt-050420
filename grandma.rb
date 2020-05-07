@@ -5,3 +5,5 @@ if "I LOVE YOU GRANDMA!" == "I LOVE YOU GRANDMA!"
 else
   puts "HUH?! SPEAK UP, SONNY!"
 end
+
+hi
